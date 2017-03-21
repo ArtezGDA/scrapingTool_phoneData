@@ -9,3 +9,6 @@ There are also some other possibilitys in the settings. For instance you can cho
 But if you are going to be in another city ofcourse you want to know where the best is connection to your provider. By only indicate the name of that city in the search function, it will give you an overview of that city and it's cell towers. 
 
 Happy Tower Tracking!
+
+
+[alt tag](http://url/to/img.png)
