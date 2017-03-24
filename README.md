@@ -1,4 +1,4 @@
-<font size="20">Tower Tracker</font>
+#Tower Tracker
 
 The Tower Tracker is a tool that you can install on your phone. You can eassily see where you are on the map and where you find tower cells to have the best connection to your 3G and 4G network.
 
