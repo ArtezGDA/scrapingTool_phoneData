@@ -1,5 +1,6 @@
 # Tower Tracker
-
+## Tower
+### Tower
 The Tower Tracker is a tool that you can install on your phone. You can eassily see where you are on the map and where you find tower cells to have the best connection to your 3G and 4G network.
 
 On the map you can see where you are but also around the neighbourhood you see cell towers. These cell towers are used to give our phones a connection to the internet. Without a good connection the internet will not work properly. Sometimes you are far away from a cell tower and at another time you are right next to one.
