@@ -1,7 +1,9 @@
 # Tower Tracker
-## Tower
-### Tower
-The Tower Tracker is a tool that you can install on your phone. You can eassily see where you are on the map and where you find tower cells to have the best connection to your 3G and 4G network.
+
+### What?
+The Tower Tracker is a tool that you can install on your phone. You will get an overview of the cell towers you've used, where you've been contected to and ...
+Through the day you took and used your phone from place to place. Most people have a mobile network on their phone which is 3g or 4g. To have a good connection there are hundreds of cell towers through the country that makes your phone having a good network. Every cell towers has it's own providors that it connects with. If you are subscribed at for instance KPN your phone will anly track the towers from KPN.  
+
 
 On the map you can see where you are but also around the neighbourhood you see cell towers. These cell towers are used to give our phones a connection to the internet. Without a good connection the internet will not work properly. Sometimes you are far away from a cell tower and at another time you are right next to one.
 To know how close you are towards a cell tower this app gives you an opportunity to find out where the closest cell tower is. On the map you will see the cell towers and how far it reaches in the area. If the radiation is indicated green it means that it is the closest one to you.
@@ -12,31 +14,18 @@ But if you are going to be in another city ofcourse you want to know where the b
 Happy Tower Tracking!
 
 
+### How to install
 
+
+### Examples & screenshots
 <p align="center">
   <img src="App01.jpg" width="350"/>
 </p>
 
-<p align="center">
-  <img src="App02.jpg" width="350"/>
-</p>
 
-<p align="center">
-  <img src="App03.jpg" width="350"/>
-</p>
+### dependencies - compatability
+If you want to have this app you have to have an android cellphone.
 
-<p align="center">
-  <img src="App04.jpg" width="350"/>
-</p>
 
-<p align="center">
-  <img src="App05.jpg" width="350"/>
-</p>
 
-<p align="center">
-  <img src="App06.jpg" width="350"/>
-</p>
-
-<p align="center">
-  <img src="App07.jpg" width="350"/>
-</p>
+### Licence MIT
