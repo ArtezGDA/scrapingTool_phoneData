@@ -2,20 +2,14 @@
 
 ### What?
 The Tower Tracker is a tool that you can install on your phone. You will get an overview of the cell towers you've used, where you've been contected to and ...
-Through the day you took and used your phone from place to place. Most people have a mobile network on their phone which is 3g or 4g. To have a good connection there are hundreds of cell towers through the country that makes your phone having a good network. Every cell towers has it's own providors that it connects with. If you are subscribed at for instance KPN your phone will anly track the towers from KPN.  
+Through the day you took and used your phone from place to place. Most people have a mobile network on their phone which is 3g or 4g. To have a good connection there are hundreds of cell towers through the country that makes your phone having a good network. Every cell tower has its own providors that it connects with. If you are subscribed at for instance KPN your phone will only track the towers from KPN. You will never be connected to the same tower all the time because of the distance. If you get further away from one tower you will automaticly connect to another one closer by. 
 
-
-On the map you can see where you are but also around the neighbourhood you see cell towers. These cell towers are used to give our phones a connection to the internet. Without a good connection the internet will not work properly. Sometimes you are far away from a cell tower and at another time you are right next to one.
-To know how close you are towards a cell tower this app gives you an opportunity to find out where the closest cell tower is. On the map you will see the cell towers and how far it reaches in the area. If the radiation is indicated green it means that it is the closest one to you.
-If you want to know how to get to one, the app can tell you. By turning the sound on and off in the settings the app guides you toawrads the desires cell tower.
-There are also some other possibilitys in the settings. For instance you can choose your provider. If your provider is Vodafone you can easally filter out the cell towers that are only used bij Vodafone. You can also choose to see all the cell towers of every provider. Then you can set the view to satellite or a map view. And if you have an other way of measuring you can set the distance from miles to kilometers and the other way around, also there is a language setting. Last but nog least you can set up your 'home' location by using your address. With an easy click on the house button en the location is back at you home.
-But if you are going to be in another city ofcourse you want to know where the best is connection to your provider. By only indicate the name of that city in the search function, it will give you an overview of that city and it's cell towers. 
-
-Happy Tower Tracking!
-
+### About the app
+In the app we want to visualize the data that the phone gets from these cell towers. The information you get is the strenght of the network,  GSM Cell ID, GSM Location Area Code (LAC), Mobile Country Code (MCC), Mobile Network code (MAC), Operator and how many times you've be connected.
+With this app you have a broad view of all the cell towers you've been connected to.
 
 ### How to install
-
+You can install this app in the playstore of android. 
 
 ### Examples & screenshots
 <p align="center">
