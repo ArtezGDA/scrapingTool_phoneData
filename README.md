@@ -29,5 +29,5 @@ You have to have an android phone and then can install this app in the playstore
 </p>
 
 <p align="center">
-  <img src="Connection-Time-page-001.jpgg" width="350"/>
+  <img src="Connection-Time-page-001.jpg" width="350"/>
 </p>
