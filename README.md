@@ -13,21 +13,21 @@ You have to have an android phone and then can install this app in the playstore
 
 ### Examples & screenshots
 <p align="center">
-  <img src="Map1.pdf" width="350"/>
+  <img src="Map1.jpg" width="350"/>
 </p>
 
 <p align="center">
-  <img src="Map2.pdf" width="350"/>
+  <img src="Map2.jpg" width="350"/>
 </p>
 
 <p align="center">
-  <img src="Map3.pdf" width="350"/>
+  <img src="Map3.jpg" width="350"/>
 </p>
 
 <p align="center">
-  <img src="Connection-Time.pdf" width="350"/>
+  <img src="Connection-Time.jpg" width="350"/>
 </p>
 
 <p align="center">
-  <img src="Signal-Strength.pdf" width="350"/>
+  <img src="Signal-Strength.jpg" width="350"/>
 </p>
