@@ -35,6 +35,11 @@ You have to have an android phone and then can install this app in the PlayStore
   <img src="Connection-Time-page-001.jpg" width="350"/>
 </p>
 
+<p align="center">
+  <img src="completeJourney-05.jpg" width="350"/>
+</p>
+
+
 ### Possible coding solution
 To scrape this data and find it there would be a good solution to create an app for that
 The android operating system already has functions to get all the info needed in their library.
