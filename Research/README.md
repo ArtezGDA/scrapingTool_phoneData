@@ -18,6 +18,10 @@ These are the screenshots we've used of the app 'Netmonitor' and 'CellID Info'. 
   <img src="Screenshot_2017-03-22-11-26-58.jpg" width="350"/>
 </p>
 
+<p align="center">
+  <img src="Screenshot_2017-03-26-20-40-23.jpg" width="350"/>
+</p>
+
 
 <p align="center">
   <img src="Screenshot_2017-03-22-16-10-03.jpg" width="350"/>
@@ -26,11 +30,6 @@ These are the screenshots we've used of the app 'Netmonitor' and 'CellID Info'. 
 
 <p align="center">
   <img src="Screenshot_2017-03-25-11-17-30.jpg" width="350"/>
-</p>
-
-
-<p align="center">
-  <img src="Screenshot_2017-03-26-20-40-23.jpg" width="350"/>
 </p>
 
 
