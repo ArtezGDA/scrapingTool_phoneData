@@ -13,6 +13,7 @@ You have to have an android phone and then can install this app in the PlayStore
 
 ### Video
 [Click Here for the Tower Tracker video](https://www.youtube.com/watch?v=tPix0b-Rklw&feature=youtu.be)
+
 [Click Here for the Tower Tracker video with a map](https://www.youtube.com/watch?v=o26taNWHWsk&feature=youtu.be)
 
 ### Examples & screenshots
