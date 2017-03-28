@@ -12,9 +12,7 @@ With this app you have a broad view of all the cell towers you've been connected
 You have to have an android phone and then can install this app in the playstore. Immediately  the app will know which provider you use and what your location is. 
 
 ### Video
-<p align="center">
-  <video src="Video01.mov" width="350"/>
-</p>
+[![Alt text for your video](https://www.youtube.com/watch?v=tPix0b-Rklw&feature=youtu.be)
 
 ### Examples & screenshots
 <p align="center">
