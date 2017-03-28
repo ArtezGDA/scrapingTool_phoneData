@@ -13,7 +13,7 @@ You have to have an android phone and then can install this app in the playstore
 
 ### Video
 <p align="center">
-  <img src="Video01.mov" width="350"/>
+  <vid src="Video01.mov" width="350"/>
 </p>
 
 ### Examples & screenshots
