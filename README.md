@@ -17,14 +17,20 @@ You have to have an android phone and then can install this app in the PlayStore
 ### Examples & screenshots
 <p align="center">
   <img src="Map1.jpg" width="350"/>
+  <br>
+  overview of the towers you have connected to in the past 24 hours
 </p>
 
 <p align="center">
   <img src="Map2.jpg" width="350"/>
+  <br>
+  overview of the towers you have connected to in the past 24 hours highlight the peak signal strenght for each tower
 </p>
 
 <p align="center">
   <img src="Map3.jpg" width="350"/>
+  <br>
+  overview of the towers you have connected to in the past 24 hours on a normal map
 </p>
 
 <p align="center">
@@ -37,6 +43,8 @@ You have to have an android phone and then can install this app in the PlayStore
 
 <p align="center">
   <img src="completeJourney-05.jpg" width="1150"/>
+  <br>
+  overview of all the towers connected to on a train 
 </p>
 
 
