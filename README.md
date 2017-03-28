@@ -36,7 +36,7 @@ You have to have an android phone and then can install this app in the PlayStore
 </p>
 
 <p align="center">
-  <img src="completeJourney-05.jpg" width="450"/>
+  <img src="completeJourney-05.jpg" width="1150"/>
 </p>
 
 
