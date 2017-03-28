@@ -1,6 +1,7 @@
 # Reasearch
 Here you can find our references.
 
+
 ### Website links
 * https://www.reddit.com/r/AndroidQuestions/comments/2wowdg/how_to_scrape_data_from_android_apps/
 * https://opencellid.org/#action=heatMaps.dailyHeatmap
@@ -10,9 +11,11 @@ Here you can find our references.
 * https://developer.android.com/reference/android/telephony/gsm/GsmCellLocation.html
 * https://mitmproxy.org
 
+
 ### Einar
 I also talked to Luis (A teacher in IDA) about this and asked him about the cell tower thing. So apparently your phone knows which cell tower it is connected to and how strong that signal is. However it does not know where the cell tower is located. So if we have found the cell tower id's we connected to we have to compare that to a map of cell towers. 
 He said that finding this info on your phone is almost impossible on an iphone. It is way easier to do on an android but it's also possible to buy a dongle with a sim tray that turns a computer into a "phone"
+
 
 ### Screenshots 
 These are the screenshots we've used of the app 'Netmonitor' and 'CellID Info'. In these apps you are able to see the surrounding celltowers, the towers you've been connected to and the information/statistic about the cell towers.
