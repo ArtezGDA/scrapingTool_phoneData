@@ -11,6 +11,11 @@ With this app you have a broad view of all the cell towers you've been connected
 ### How to install - Dependencies
 You have to have an android phone and then can install this app in the playstore. Immediately  the app will know which provider you use and what your location is. 
 
+### Video
+<p align="center">
+  <img src="Video01.mov" width="350"/>
+</p>
+
 ### Examples & screenshots
 <p align="center">
   <img src="Map1-page-001.jpg" width="350"/>
