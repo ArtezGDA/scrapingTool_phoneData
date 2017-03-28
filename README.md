@@ -46,7 +46,7 @@ The android operating system already has functions to get all the info needed in
 The function of the app would be to get the main parameters that we need to scrape to visualize them. Those are 1. Cell tower location, 2. Signal strength, 3. Connection time.
 However as the class is mainly about python and Android apps are mainly written in Java we couldn’t put this to the test.
 
-1. ####The Cell tower location. [Reference](https://developer.android.com/reference/android/telephony/CellIdentityGsm.html)
+1. ### The Cell tower location. [Reference](https://developer.android.com/reference/android/telephony/CellIdentityGsm.html)
 	 The phone only know which tower it is connected to and its ID but it never knows where exactly that tower is located. To find this out we need to first find the identity of the tower. Android Dev system already has a CellIdentityGsm class with functions to get everything we need.These functions should get us all the parameters
 
 		* int	getCid()
@@ -58,12 +58,12 @@ However as the class is mainly about python and Android apps are mainly written 
 From there we know which tower we are connected to and where it is.
 
 
-2. ####Signal Strength. [Reference](https://developer.android.com/reference/android/telephony/CellSignalStrength.html)
+2. ### Signal Strength. [Reference](https://developer.android.com/reference/android/telephony/CellSignalStrength.html)
 	Now we need to know the strength of the connection we have with each tower. For that we would use the CellSignalStrength class and inside there use the function
 
 		* getDbm( )
 
 	This returns a value from -120 to -50 which is the strength of the connection to the tower, with -120 being no connection and -50 being perfect connection. From there we can visualize the cell tower with -120 being black and -50 being full 255 R, G or B depending on the type of tower (2G is red, 3G is green and 4G is blue.
 
-3. ####Connection time
-This can be sorted by logging the above info every second and counting how many times you’ve been connected to each tower. This can then be visualized with letting the tower start as a dot and then slowly morph into a triangle as the connection stays longer.
+3. ### Connection time
+	This can be sorted by logging the above info every second and counting how many times you’ve been connected to each tower. This can then be visualized with letting the tower start as a dot and then slowly morph into a triangle as the connection stays longer.
